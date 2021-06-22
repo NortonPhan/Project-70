@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color:darkcyan;
+}
+.principal{
+    text-align:center;
+}
+#chead{
+    font-weight:900px;
+}
+#x{
+    font-size:30px;
+}
+#whatsnew{
+    background-color:darkcyan;
+}
+#campus{
+    background-color:lightgray;
+}
+marquee{
+    background-color:blue;
+}
+html{
+scroll-behavior:smooth;
+}
+#a{
+    font-size:30px;
+}
+   
